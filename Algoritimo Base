@@ -1,74 +1,7 @@
-Algoritimo base
+O algoritmo do Complexo Zero é basicamente dividido em três etapas importantes para controlar dados e sistemas.
 
--x = impar/negativo
--v = par/positivo
-▲ = 5(o triangulo sempre vale cinco)
-C = ▲²
-ic = 5-x(indicativo consecutivo)
-rr = 6-v(radical reversível)
+A primeira etapa é a Compactação Criptográfica, também conhecida como LTM. Ela pega quatro números brutos, processa e combina seus valores usando modificadores, e cria um identificador numérico único. Isso ajuda a garantir a segurança dos dados e impede que arquivos sejam manipulados.
 
-       +
-5-x[6-v]= 11-x
-¯¯        ¯¯÷
-▲        R;5,5-x
+A segunda etapa é o Controle de Limites, ou Inradical. Ela define limites numéricos e regras operacionais. Isso serve para equilibrar sistemas que estão sempre mudando, como medidores de progresso ou escalas de dano, e impede que as variáveis cresçam sem controle e causem problemas no software.
 
-
-5,5-x
-¯¯
-▲ = C² = 25-x
-
-
-operador:indivisivel
-símbolo: /
-x = não divisível
-v = divisível
-
-
-11/2(não é 11 n é divisível por 2,então iremos fazer essa conta aqui)
-
-
-
-
-11/2=x                                         11/2=x
-¯¯                              ou             11+1 = 12
-1 = 12 = 6                                     12/6 = 6
-(esse 1 é o complemento)
-
-
-
-quando o numero é divisível:
-
-12/2 = V = 6    ou        12/2
-                          ¯¯
-                           v = 6
-
-LTM
-EX:
-divinador(DI) = 4
-ct = 1
-luminador(LM) = 3
-kt = 2
-
-st = DI÷CT = 4
-lt = LMxKT = 6
-
-STxLT =S.lt
-ST÷LT =S.st
-
-S.lt ÷ S.st = MT
-
-ST÷MT = S.rt
-
-S.rt+MT = RT
-
-RT÷LT = emt
-
-emt  lt   ?
-¯¯ + ¯¯ =¯¯
-rt   cT  RT+CT
-
-
-
-
-ainda em deselvolvimento.
-
+A terceira etapa é a Validação de Consistência, também chamada de Equação Final. Ela compara os resultados de dois cálculos diferentes enquanto o programa está rodando. Isso serve como uma medida de segurança para detectar erros aritméticos e evitar que o programa feche inesperadamente.
