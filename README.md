@@ -1,4 +1,4 @@
-# Matem-tica-do-Complexo-Zero
+# Matemtica-do-Complexo-Zero
 um novo tipo de algoritimo simples de matematica
 Matemática do Complexo Zero:
 feita por:Kauan araujo
